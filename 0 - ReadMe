@@ -1,0 +1,8 @@
+This repository will include files for Stephon Owens's submission for the Fetch take home project as part of the interview process for the Sr. Solutions Engineer role.  In this folder you in addition to this ReadMe document you will find the 3 .json source data files, 4 .sql files, and 2 .pdf files.  The content of each file is as follows:
+
+1. Fetch ERD.pdf -- A pdf of the data model that I designed for this exercise.
+2. Create Tables.sql -- A set of SQL commands to create the tables for the data model.
+3. ImportData.sql -- A set of SQL commands and queries to extract data from the source .json files and import into the data model.  This file in combination with the two above addresses section 1 of the prompt.
+4. Responses.sql -- A set of SQL queries to respond to the prompts in section 2 of the exercise.  The questions and answers wrap each query in commented text.
+5. DataIssues.sql -- A set of SQL queries that I wrote to diagnose some of the issues that I observed in the data.  Each query is wrapped by a "Test" and "Result comment.  This addresses section 3 of the prompt.
+6. Stakeholder response.pdf - A written correspondence to the stakeholders giving a brief explanation of the project I am tasked with working on.  This communication addresses the questions raised in section 5 of the exercise prompt.
