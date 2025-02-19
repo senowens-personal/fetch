@@ -1,4 +1,4 @@
-This repository will include files for Stephon Owens's submission for the Fetch take home project as part of the interview process for the Sr. Solutions Engineer role.  In this folder you in addition to this ReadMe document you will find the 3 .json source data files, 4 .sql files, and 2 .pdf files.  The content of each file is as follows:
+This repository will include files for Stephon Owens's submission for the Fetch take home project as part of the interview process for the Sr. Solutions Engineer role.  In this folder you in addition to this ReadMe document you will find the 3 .json source data files, 4 .sql files, and 2 .pdf files.  All SQL was written to be compatible with PostGreSQL 14.4.  The content of each file is as follows:
 
 1. Fetch ERD.pdf -- A pdf of the data model that I designed for this exercise.
 2. Create Tables.sql -- A set of SQL commands to create the tables for the data model.
